@@ -17,7 +17,7 @@ I'm a third-year Computer Science Engineering student. I mostly build full-stack
 
 ## Experience
 
-**Open Source AI Engineering Intern** · Spyxpo Technologies · *Aug 2026 – Present*  
+**Open Source AI Engineering Intern** · Spyxpo Technologies · *Aug 2026 – Oct 2026 *  
 Contributing to open-source tooling and applied ML / LLM workflows through GitHub-based collaborative development.
 
 **Full Stack Development Intern** · Arsenal Infosolutions, New Delhi · *Jun 2026 – Jul 2026*  
